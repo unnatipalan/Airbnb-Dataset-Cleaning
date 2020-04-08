@@ -2,12 +2,15 @@
 Cleaning of Airbnb dataset using Python 
 
 Task 1: Split coordinates into 2 columns and convert them to float
+
 Task 2: Remove $ from price and convert it to float
+
 Task 3: Convert listing_added and last_review to datetime
 
 Text/categorical data problems:
 
 Task 4: We need to collapse room_type into correct categories
+
 Task 5: Divide neighbourhood_full into 2 columns and making sure they are clean
 
 Data range problems:
